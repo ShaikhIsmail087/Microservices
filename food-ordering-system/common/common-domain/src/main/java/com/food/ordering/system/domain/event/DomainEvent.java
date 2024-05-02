@@ -1,4 +1,7 @@
 package com.food.ordering.system.domain.event;
 
-public interface DomainEvent {
+import com.food.ordering.system.domain.entity.AggregateRoot;
+import com.food.ordering.system.domain.valueobject.OrderId;
+
+public interface DomainEvent<O extends AggregateRoot<OrderId>> {
 }

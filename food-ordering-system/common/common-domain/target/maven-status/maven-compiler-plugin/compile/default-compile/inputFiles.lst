@@ -5,6 +5,7 @@ C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\
 C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\CustomerId.java
 C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\entity\AggregateRoot.java
 C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\ProductId.java
+C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\exception\DomainException.java
 C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\Money.java
 C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\OrderStatus.java
 C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\OrderId.java
