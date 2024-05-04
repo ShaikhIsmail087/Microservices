@@ -45,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Microservice-Architechure/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain",
+    "last_opened_file_path": "C:/Microservice-Architechure/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/event",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -54,6 +54,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\event" />
+      <recent name="C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject" />
+      <recent name="C:\Microservice-Architechure\food-ordering-system\order-service\order-domain\order-application-service\src\main\java" />
       <recent name="C:\Microservice-Architechure\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain" />
       <recent name="C:\Microservice-Architechure\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java" />
     </key>
